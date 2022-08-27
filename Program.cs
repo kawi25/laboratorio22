@@ -11,7 +11,7 @@ namespace laboratorio22
             array1[2] = 8;
             array1[0] = 15;
             for (int i = 0; i < array1.Length; i++)
-            {
+                ;
                 Console.WriteLine(i + " " + array1[i]);
             }
             for (int i = 0; i < array1.Length; i++)
